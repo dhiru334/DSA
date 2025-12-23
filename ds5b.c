@@ -1,3 +1,5 @@
+b) Solving Tower of Hanoi problem with n disks
+
 #include <stdio.h> 
 void towers(int, char, char, char); 
 int main() 
@@ -19,4 +21,5 @@ void towers(int num, char frompeg, char topeg, char auxpeg)
  towers(num - 1, frompeg, auxpeg, topeg); 
  printf("\nMove disk %d from peg %c to peg %c", num, frompeg, topeg); 
  towers(num - 1, auxpeg, topeg, frompeg); 
+
 }
