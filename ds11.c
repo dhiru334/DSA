@@ -1,3 +1,8 @@
+a) Create a Graph of N cities using Adjacency Matrix.
+b) Print all the nodes reachable from a given starting node in a digraph using DFS/BFSmethod.
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 100 // Maximum number of cities
