@@ -2,7 +2,7 @@ Design, Develop and Implement a Program in C for the following operationson Sing
 
 a) Represent and Evaluate a Polynomial P(x,y,z) = 6x2y 2z-4yz5+3x3yz+2xy5 z-2xyz3.
 b) Find the sum of two polynomials POLY1(x,y,z) and POLY2(x,y,z) and store the result in POLYSUM(x,y,z).
-ppppppppppp
+
 
 #include <stdio.h>
 #include <stdlib.h>
